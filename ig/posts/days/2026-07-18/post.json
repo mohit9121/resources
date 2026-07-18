@@ -2,20 +2,20 @@
   "meta": {
     "post_type": "reel",
     "date": "2026-07-18",
-    "slug": "kuldhara-abandoned-village"
+    "slug": "gangkhar-puensum-unclimbed-mountain"
   },
-  "background_music": "suspense.mp3",
+  "background_music": "suspense-dark.mp3",
   "style": "cinematic",
   "caption": {
-    "text": "In 1825, an entire Rajasthan village vanished overnight.\n\nNo war. No plague. Just silence — and a curse that still keeps people away.\n\nKuldhara was real. The emptiness is still documented.\n\nWould you spend a night there?\n\nFollow @KuchAurTha for stories stranger than the explanation."
+    "text": "There is a mountain taller than Everest's base camp that no human has ever touched.\n\nNot because it's too steep. Not because it's too cold.\n\nBecause a country looked at it and said:\n\"The gods live there. Leave it alone.\"\n\n🏔️ Gangkhar Puensum, Bhutan.\n📏 7,570 meters.\n🌏 The world's highest unclimbed mountain.\n\nIn 1994, Bhutan banned all climbing above 6,000 meters.\nIn 2003, it banned mountaineering entirely.\n\nThe reason?\nLocal belief says protective deities and spirits reside on these peaks.\n\nSeveral expeditions attempted the summit during the 1980s.\nNone succeeded.\nThen the law came.\nAnd the mountain became legally untouchable.\n\nThis isn't a ghost story.\nIt's a documented fact with a documented mystery.\n\nWe know:\n• Its height.\n• Its location.\n• The climbing ban.\n\nWe don't know what the summit looks like.\nNo confirmed photograph exists from the top.\nNo human has ever stood there.\n\nWhat do you think is waiting at the summit?\n\nFollow @KuchAurTha for more stories where reality is stranger than fiction."
   },
   "hashtags": [
     "#IndiaFacts",
     "#IndianMystery",
     "#TrueStory",
-    "#Rajasthan",
-    "#Kuldhara",
-    "#AbandonedPlaces",
+    "#Himalayas",
+    "#Bhutan",
+    "#UnclimbedPeak",
     "#MysteryReels",
     "#Unexplained",
     "#DidYouKnow",
@@ -24,34 +24,34 @@
   "scenes": [
     {
       "scene_id": "01",
-      "duration_seconds": 5,
+      "duration_seconds": 3,
       "text": {
-        "line_1": "1825. One night.",
-        "line_2": "An entire village vanished."
+        "line_1": "7,570 meters high",
+        "line_2": "No human has ever touched it"
       }
     },
     {
       "scene_id": "02",
-      "duration_seconds": 5,
+      "duration_seconds": 4,
       "text": {
-        "line_1": "Kuldhara, Rajasthan.",
-        "line_2": "Homes left standing. Empty."
+        "line_1": "Not too steep to climb",
+        "line_2": "Too sacred to try"
       }
     },
     {
       "scene_id": "03",
-      "duration_seconds": 5,
+      "duration_seconds": 4,
       "text": {
-        "line_1": "Locals still refuse",
-        "line_2": "to live there. Documented."
+        "line_1": "Bhutan banned climbing",
+        "line_2": "The gods live here"
       }
     },
     {
       "scene_id": "04",
-      "duration_seconds": 5,
+      "duration_seconds": 4,
       "text": {
-        "line_1": "What really happened?",
-        "line_2": "Follow for more."
+        "line_1": "We know its height",
+        "line_2": "But not its summit"
       }
     }
   ]
