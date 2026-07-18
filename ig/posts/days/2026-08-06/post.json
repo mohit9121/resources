@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "post_type": "reel",
+    "date": "2026-08-06",
+    "slug": "saraswati-mahal-unread-manuscripts"
+  },
+  "background_music": "tension-build.mp3",
+  "style": "documentary",
+  "caption": {
+    "text": "30,000 manuscripts. Some will never be read.\n\nThe Saraswati Mahal Library in Thanjavur, Tamil Nadu, was established around 1700 by the Maratha kings. It holds over 30,000 Indian and European manuscripts — more than 80% in Sanskrit, many written on palm leaf. Medical treatises, commentaries on Sangam literature, texts on astronomy and music sit in its archives.\n\nBut palm leaf is not forever. Humidity, insects, and time have claimed some texts already. Others remain uncatalogued — their contents unknown, their titles unrecorded. We do not know what knowledge has already turned to dust, or what revelations still sit unread in the stacks.\n\nThe library is real. The loss is documented. The gap grows every year.\n\nWhat would you save if you could only choose one?"
+  },
+  "hashtags": [
+    "#SaraswatiMahal",
+    "#Thanjavur",
+    "#IndiaFacts",
+    "#IndianMystery",
+    "#TrueStory",
+    "#KuchAurTha",
+    "#Manuscripts",
+    "#TamilNadu",
+    "#MysteryReels",
+    "#DidYouKnow",
+    "#Unexplained",
+    "#ReadThis"
+  ],
+  "scenes": [
+    {
+      "scene_id": "01",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "30,000 manuscripts.",
+        "line_2": "Some already lost."
+      }
+    },
+    {
+      "scene_id": "02",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "Thanjavur, 1700 CE.",
+        "line_2": "Palm leaf and paper, Sanskrit and Tamil."
+      }
+    },
+    {
+      "scene_id": "03",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "Humidity and time.",
+        "line_2": "Claiming what scholars never read."
+      }
+    },
+    {
+      "scene_id": "04",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "Uncatalogued. Unread.",
+        "line_2": "What secrets are turning to dust?"
+      }
+    }
+  ]
+}

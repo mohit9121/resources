@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "post_type": "reel",
+    "date": "2026-08-01",
+    "slug": "indus-script-undeciphered"
+  },
+  "background_music": "tension-build.mp3",
+  "style": "documentary",
+  "caption": {
+    "text": "4,000 years old. Not a single word has been read.\n\nThe Indus Valley script survives on nearly 5,000 seals across one of the world's oldest civilizations. Roughly 400 distinct signs, arranged with mathematical precision — entropy analysis and AI confirm it encodes real information. Yet after more than a century, no sentence has been reliably translated.\n\nIravatham Mahadevan, a Tamil civil servant, gave up his career to spend 37 years building the only complete concordance of these signs. He died in 2018 at age 88, his life's work unfinished. The Tamil Nadu government has now offered $1 million to anyone who can decipher it. The original seals sit in the National Museum in Delhi, the Archaeological Survey of India, and the Roja Muthiah Research Library in Chennai — waiting.\n\nWe know the script is not random. We do not know what it says.\n\nWhat would you risk to solve history's oldest unread message?"
+  },
+  "hashtags": [
+    "#IndusValley",
+    "#Undeciphered",
+    "#IndiaFacts",
+    "#IndianMystery",
+    "#TrueStory",
+    "#KuchAurTha",
+    "#AncientIndia",
+    "#Unsolved",
+    "#MysteryReels",
+    "#DidYouKnow",
+    "#Unexplained",
+    "#SaveThis"
+  ],
+  "scenes": [
+    {
+      "scene_id": "01",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "4,000 years old.",
+        "line_2": "Nobody can read it."
+      }
+    },
+    {
+      "scene_id": "02",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "400 signs. 5,000 artifacts.",
+        "line_2": "Stored in Delhi, Chennai, and beyond."
+      }
+    },
+    {
+      "scene_id": "03",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "Scholars spent lifetimes on it.",
+        "line_2": "Died without cracking a single word."
+      }
+    },
+    {
+      "scene_id": "04",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "$1 million prize.",
+        "line_2": "Still unclaimed. What does it say?"
+      }
+    }
+  ]
+}

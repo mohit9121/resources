@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "post_type": "reel",
+    "date": "2026-08-17",
+    "slug": "brihadeeswara-temple-no-shadow"
+  },
+  "background_music": "epic-ambient.mp3",
+  "style": "cinematic",
+  "caption": {
+    "text": "A 66-meter granite tower that appears to cast no shadow at noon — and it was built 1,000 years ago without a single crane.\n\nThe Brihadeeswara Temple in Thanjavur, commissioned by Rajaraja Chola I in 1010 CE, is one of the tallest temple vimanas in the world. Its capstone alone weighs 80 tons. The structure was built using dry masonry — interlocking granite blocks without mortar — and an earthen ramp system that was completely removed afterward, leaving no trace of the construction method.\n\nThe 'shadowless' phenomenon is real but subtle. Between approximately May 24 and July 19 each year, the sun passes within 0.5 degrees of the zenith at Thanjavur's latitude. The tower's precise tapering and geometric proportions cause its noon shadow to shrink to a tiny pool directly beneath the base — invisible from outside. The Chola architects calculated solar declination, trigonometric angles, and structural load distribution with a precision that rivals modern engineering software.\n\nBut here's what keeps archaeologists up at night: we have no surviving documentation of their mathematical methods. No blueprints. No construction manuals. Just the building, standing after a thousand monsoons and earthquakes, perfectly aligned.\n\nHow do you build something this precise — and leave no record of how you did it?"
+  },
+  "hashtags": [
+    "#IndiaFacts",
+    "#IndianMystery",
+    "#TrueStory",
+    "#KuchAurTha",
+    "#BrihadeeswaraTemple",
+    "#CholaDynasty",
+    "#AncientEngineering",
+    "#Thanjavur",
+    "#MysteryReels",
+    "#DidYouKnow",
+    "#Unexplained",
+    "#SaveThis",
+    "#ReadThis"
+  ],
+  "scenes": [
+    {
+      "scene_id": "01",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "66 meters. 80-ton capstone.",
+        "line_2": "No shadow at noon."
+      }
+    },
+    {
+      "scene_id": "02",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "Built by Rajaraja Chola in 1010 CE",
+        "line_2": "with dry masonry and vanished ramps."
+      }
+    },
+    {
+      "scene_id": "03",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "Solar geometry at 10.78°N latitude",
+        "line_2": "calculated to 0.5° precision. No blueprints survive."
+      }
+    },
+    {
+      "scene_id": "04",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "How do you engineer perfection",
+        "line_2": "and leave no manual behind?"
+      }
+    }
+  ]
+}

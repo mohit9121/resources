@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "post_type": "reel",
+    "date": "2026-08-16",
+    "slug": "wootz-steel-lost-supermaterial"
+  },
+  "background_music": "tension-build.mp3",
+  "style": "documentary",
+  "caption": {
+    "text": "India once produced a steel so advanced that Michael Faraday spent years trying to reverse-engineer it — and failed.\n\nWootz steel, forged in crucibles across Tamil Nadu, Karnataka, and Telangana from at least the 3rd century BCE, was an ultra-high carbon steel with 1.5–2.0% carbon. It exhibited superplasticity and an impact hardness that European metallurgists could not explain. Arab traders called it 'Hinduwani' — Indian steel — and shipped tens of thousands of ingots from the Coromandel coast to forge the legendary Damascus blades.\n\nIn 2000, IISc Bangalore researchers Srinivasan and Ranganathan published a definitive review confirming wootz as an 'advanced material of the ancient world.' Archaeological excavations at Kodumanal in Tamil Nadu and Yodhawewa in Sri Lanka uncovered crucible fragments and furnace remains proving industrial-scale production predating the European Industrial Revolution.\n\nYet the process is lost. The exact crucible composition, the bamboo-and-leaf carburization recipe, the cooling curves that produced the characteristic banded microstructure — all vanished by the 19th century. Modern labs can approximate the chemistry. No one has reproduced the original process.\n\nWhat else did we know — and forget?"
+  },
+  "hashtags": [
+    "#IndiaFacts",
+    "#IndianMystery",
+    "#TrueStory",
+    "#KuchAurTha",
+    "#WootzSteel",
+    "#DamascusSteel",
+    "#AncientScience",
+    "#TamilNadu",
+    "#MysteryReels",
+    "#DidYouKnow",
+    "#Unexplained",
+    "#SaveThis",
+    "#ReadThis"
+  ],
+  "scenes": [
+    {
+      "scene_id": "01",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "A steel so advanced",
+        "line_2": "Faraday couldn't crack it."
+      }
+    },
+    {
+      "scene_id": "02",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "Forged in Tamil Nadu crucibles",
+        "line_2": "from 300 BCE. Exported across three continents."
+      }
+    },
+    {
+      "scene_id": "03",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "IISc confirmed it: superplasticity,",
+        "line_2": "ultra-high carbon. The recipe is gone."
+      }
+    },
+    {
+      "scene_id": "04",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "What did ancient India know",
+        "line_2": "that modern labs still don't?"
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "post_type": "reel",
+    "date": "2026-07-20",
+    "slug": "bhishma-58-nights-gap"
+  },
+  "background_music": "tension-build.mp3",
+  "style": "cinematic",
+  "caption": {
+    "text": "Bhishma Pitamah lay on a bed of arrows for 58 sleepless nights, waiting for Uttarayana — the winter solstice — to choose his moment of death. Every Indian child knows this number. But here's what astronomers found when they actually calculated it.\n\nProfessor Raghavan and later scholars used the Mahabharata's own astronomical markers — lunar eclipses, solar eclipses, planetary positions, the war's start date — to reconstruct the timeline. Bhishma fell on the 10th day of the war. The winter solstice arrived 48 days later. Not 58. Ten full days are unaccounted for in the sky itself.\n\nSome scholars suggest those extra 10 days were the sleepless nights Bhishma spent leading the Kaurava army before his fall. But the text is explicit: 58 nights on the arrow bed, waiting. The gap persists. The Surya Siddhanta fixes Kali Yuga's start with astronomical precision, yet the epic's internal chronology refuses to align.\n\nThis isn't a mistake in the stars — it's a documented anomaly in one of the most scrutinized texts on Earth. The Mahabharata gives us dates, eclipses, and planetary positions detailed enough to run through modern software. And still, Bhishma's 58 nights don't fit.\n\nWas the number symbolic? Was an eclipse misrecorded? Or did something else happen in those ten missing days that the sky itself won't confirm?\n\nTag someone who thinks they've figured out the Mahabharata timeline."
+  },
+  "hashtags": [
+    "#IndiaFacts",
+    "#IndianMystery",
+    "#TrueStory",
+    "#KuchAurTha",
+    "#Mahabharata",
+    "#Bhishma",
+    "#Astronomy",
+    "#AncientIndia",
+    "#MysteryReels",
+    "#DidYouKnow",
+    "#Unexplained",
+    "#SaveThis",
+    "#ReadThis"
+  ],
+  "scenes": [
+    {
+      "scene_id": "01",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "58 sleepless nights.",
+        "line_2": "The sky only records 48."
+      }
+    },
+    {
+      "scene_id": "02",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "Bhishma waited for Uttarayana",
+        "line_2": "on his bed of arrows. Every Indian knows this."
+      }
+    },
+    {
+      "scene_id": "03",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "Astronomers ran the eclipses, the dates,",
+        "line_2": "the war chronology through modern software. Ten days are missing."
+      }
+    },
+    {
+      "scene_id": "04",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "Symbolic number? Misrecorded eclipse?",
+        "line_2": "Or something the sky won't confirm?"
+      }
+    }
+  ]
+}

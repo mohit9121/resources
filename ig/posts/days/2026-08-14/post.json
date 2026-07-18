@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "post_type": "reel",
+    "date": "2026-08-14",
+    "slug": "delhi-iron-pillar-1600-years"
+  },
+  "background_music": "tension-build.mp3",
+  "style": "documentary",
+  "caption": {
+    "text": "A 6-ton iron pillar has stood in Delhi for over 1,600 years — and it has not rusted. Not a single significant layer of corrosion.\n\nThe Delhi Iron Pillar was forged during the Gupta period, likely under Chandragupta II, and later moved to its current location near the Qutub Minar. It is 99.72% pure wrought iron, over 7 meters tall, and has survived monsoons, pollution, and centuries of exposure.\n\nIn 2000, IIT Kanpur metallurgist R. Balasubramaniam published a peer-reviewed study in Corrosion Science identifying the secret: a crystalline iron hydrogen phosphate hydrate layer at the metal-scale interface, catalyzed by the pillar's high phosphorus content and Delhi's alternate wetting-drying cycles. The slag particles in the iron actually accelerated initial corrosion — which then enriched phosphorus at the surface, forming a self-healing protective film.\n\nBut here's the gap: modern metallurgists still cannot replicate this process at scale. The exact furnace temperatures, the precise carburization timing, and the surface-finishing hammering operation remain undocumented. We know what the pillar IS. We still don't fully know how they MADE it.\n\nWould you trust a bridge built today to last 1,600 years?"
+  },
+  "hashtags": [
+    "#IndiaFacts",
+    "#IndianMystery",
+    "#TrueStory",
+    "#KuchAurTha",
+    "#DelhiIronPillar",
+    "#Metallurgy",
+    "#AncientScience",
+    "#GuptaPeriod",
+    "#MysteryReels",
+    "#DidYouKnow",
+    "#Unexplained",
+    "#SaveThis",
+    "#ReadThis"
+  ],
+  "scenes": [
+    {
+      "scene_id": "01",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "1,600 years. Zero rust.",
+        "line_2": "One iron pillar in Delhi."
+      }
+    },
+    {
+      "scene_id": "02",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "Forged by Gupta-era smiths",
+        "line_2": "in the 4th century CE. 99.72% pure iron."
+      }
+    },
+    {
+      "scene_id": "03",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "IIT Kanpur found the secret: a crystalline",
+        "line_2": "phosphate film. But we still cannot replicate it."
+      }
+    },
+    {
+      "scene_id": "04",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "Would you trust modern steel",
+        "line_2": "to outlast this?"
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "post_type": "reel",
+    "date": "2026-07-30",
+    "slug": "yuga-cycle-mathematical-crisis"
+  },
+  "background_music": "tension-build.mp3",
+  "style": "editorial",
+  "caption": {
+    "text": "The Mahabharata's Shanti Parva and the Manusmriti both describe the four yugas — Satya, Treta, Dvapara, Kali — as totaling 12,000 years. That's the text. That's what the shlokas say. But tradition multiplies that number by 360, turning 12,000 into 4,320,000 years. And nobody can agree which calculation is correct.\n\nHere's the documented problem. Manusmriti 1.67 defines one deva day as one human year. But the yuga verses that follow never specify whether they're using deva years or human years. Later commentators multiplied by 360 anyway, creating Kali Yuga as 432,000 years long — of which only about 5,000 have supposedly passed. This puts us at the very beginning of a yuga that should last another 427,000 years.\n\nBut Sri Yukteswar Giri, Dr. Subhash Kak, and modern scholars like BR Singh have all argued the original texts meant human years, not divine ones. If they're right, the yuga cycle is 24,000 years total — ascending and descending — and we're already in Dvapara Yuga's ascending phase. The Surya Siddhanta itself uses 4,320,000 as an astronomical convenience for calculations, not as literal cosmic history.\n\nThe conflict is mathematical and textual. Same verses. Same sources. Two timelines separated by a factor of 360. One interpretation aligns with archaeological evidence and carbon dating. The other demands we accept a universe older than modern cosmology allows.\n\nWhen the oldest timekeeping system on Earth contains a 360-fold ambiguity at its core, which calculation do you trust — the commentator's multiplication, or the original verse?\n\nDrop your theory below."
+  },
+  "hashtags": [
+    "#IndiaFacts",
+    "#IndianMystery",
+    "#TrueStory",
+    "#KuchAurTha",
+    "#Mahabharata",
+    "#YugaCycle",
+    "#AncientScience",
+    "#Cosmology",
+    "#MysteryReels",
+    "#DidYouKnow",
+    "#Unexplained",
+    "#SaveThis",
+    "#ReadThis"
+  ],
+  "scenes": [
+    {
+      "scene_id": "01",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "12,000 years.",
+        "line_2": "Or 4,320,000. Same text."
+      }
+    },
+    {
+      "scene_id": "02",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "Manusmriti and Mahabharata describe yugas",
+        "line_2": "as 12,000 years total. Tradition multiplied by 360."
+      }
+    },
+    {
+      "scene_id": "03",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "Modern scholars say the original meant human years.",
+        "line_2": "The 360-fold gap changes everything we think we know."
+      }
+    },
+    {
+      "scene_id": "04",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "Archaeology aligns with 24,000. Tradition insists on millions.",
+        "line_2": "Which calculation do you trust?"
+      }
+    }
+  ]
+}

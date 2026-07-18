@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "post_type": "reel",
+    "date": "2026-07-28",
+    "slug": "kuldhara-overnight-exodus"
+  },
+  "background_music": "haunting-india.mp3",
+  "style": "documentary",
+  "caption": {
+    "text": "1,500 people. 84 villages. One night. Gone.\n\nIn 1825, the Paliwal Brahmins of Kuldhara — a prosperous community that had mastered desert agriculture for over 500 years — simply vanished. British officer James Tod recorded 800 residents in 1815. By 1890, only 37 remained. The ruins of 410 buildings still stand today, protected by the Rajasthan State Archaeology Department.\n\nThe legend is chilling: Salim Singh, the tyrannical Diwan of Jaisalmer, demanded the village chief's daughter. The villagers asked for time to decide. That night, they packed only what they could carry and disappeared into the Thar Desert. But here's what makes this a documented gap, not just folklore.\n\nA 2017 study in Current Science found earthquake damage in the ruins — collapsed roofs, fallen lintels, destruction that 'cannot be attributed to normal weathering.' The wells had dried up by 1815. The population was already declining. So was it tyranny, tectonics, or thirst? Or all three, converging on one terrible night?\n\nThe Paliwals left no forwarding address. No one has resettled Kuldhara in 200 years. The Archaeological Survey of India maintains the site. The gap between legend and ledger remains wide open.\n\nWhat would make you abandon everything you built in a single night?"
+  },
+  "hashtags": [
+    "#Kuldhara",
+    "#Rajasthan",
+    "#GhostVillage",
+    "#IndiaFacts",
+    "#TrueStory",
+    "#KuchAurTha",
+    "#IndianMystery",
+    "#PaliwalBrahmins",
+    "#Jaisalmer",
+    "#Unexplained",
+    "#MysteryReels",
+    "#DidYouKnow",
+    "#SaveThis",
+    "#ReadThis"
+  ],
+  "scenes": [
+    {
+      "scene_id": "01",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "1,500 people.",
+        "line_2": "84 villages. One night. Gone."
+      }
+    },
+    {
+      "scene_id": "02",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "Paliwal Brahmins, desert farmers",
+        "line_2": "for 500 years, vanished in 1825."
+      }
+    },
+    {
+      "scene_id": "03",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "Wells dry. Earthquake damage.",
+        "line_2": "Tyrant demanded the chief's daughter."
+      }
+    },
+    {
+      "scene_id": "04",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "200 years. No one resettled.",
+        "line_2": "What would make you leave everything?"
+      }
+    }
+  ]
+}

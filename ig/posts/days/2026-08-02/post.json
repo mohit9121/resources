@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "post_type": "reel",
+    "date": "2026-08-02",
+    "slug": "lakhpat-earthquake-erased-port"
+  },
+  "background_music": "tension-build.mp3",
+  "style": "documentary",
+  "caption": {
+    "text": "A city of millionaires. A port that generated 100,000 koris daily. Then — nothing.\n\nOn June 16, 1819, a magnitude 7.7 earthquake struck the Rann of Kutch. The Indus River shifted 150 kilometres west. And Lakhpat, a fortified trading city of 15,000 people, was severed from its lifeline overnight.\n\nBritish records are precise. In 1818, Lakhpat had 15,000 inhabitants and yielded £6,000 yearly revenue. By 1820, the population crashed to 6,000. By 1851, all trade had left. By 1880, only 2,500 remained. Today, 566 people live within 7km of fort walls built for a metropolis.\n\nThe 1819 earthquake killed at least 1,543 people across Gujarat. But at Lakhpat, the death wasn't sudden — it was a slow, irreversible bleeding. The port silted. The river abandoned them. The merchants moved to Karachi, to Bombay, to anywhere the water still flowed.\n\nThe ruins are a protected monument now. The fort walls still stand. But walk through the gates and you'll find a ghost town where 15,000 once traded silk, opium, and rice. The earthquake didn't just destroy Lakhpat. It unmade its reason to exist.\n\nCan a city survive when the earth itself changes its mind?"
+  },
+  "hashtags": [
+    "#Lakhpat",
+    "#Gujarat",
+    "#1819Earthquake",
+    "#IndiaFacts",
+    "#TrueStory",
+    "#KuchAurTha",
+    "#IndianMystery",
+    "#GhostTown",
+    "#RannOfKutch",
+    "#Unexplained",
+    "#MysteryReels",
+    "#DidYouKnow",
+    "#SaveThis",
+    "#ReadThis"
+  ],
+  "scenes": [
+    {
+      "scene_id": "01",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "15,000 people.",
+        "line_2": "A port city. Then — nothing."
+      }
+    },
+    {
+      "scene_id": "02",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "June 16, 1819. Magnitude 7.7.",
+        "line_2": "The Indus River shifted 150 km."
+      }
+    },
+    {
+      "scene_id": "03",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "By 1820: 6,000 left. By 1851:",
+        "line_2": "all trade gone. Today: 566 people."
+      }
+    },
+    {
+      "scene_id": "04",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "The earth unmade their reason",
+        "line_2": "to exist. Can a city survive that?"
+      }
+    }
+  ]
+}

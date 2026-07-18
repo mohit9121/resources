@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "post_type": "reel",
+    "date": "2026-07-27",
+    "slug": "jatinga-bird-suicide-time-window"
+  },
+  "background_music": "tension-build.mp3",
+  "style": "cinematic",
+  "caption": {
+    "text": "Every year, between September and November, something impossible happens in a remote Assam village.\n\nAt Jatinga, birds don't just die — they die on a schedule. Between 6 PM and 9:30 PM, on moonless, foggy nights, dozens of bird species suddenly descend from the sky, disoriented, crashing into lights and bamboo poles. The same window. The same conditions. Year after year.\n\nOrnithologist Anwaruddin Choudhury documented this in 'The Birds of Assam.' The Zoological Survey of India sent researchers. Salim Ali himself visited. And still — nobody can fully explain why the birds arrive at this exact temporal window, or why only juveniles and local migrants are affected.\n\nHigh velocity winds? Fog disorientation? Magnetic anomalies? The theories exist. The birds keep dying on schedule anyway.\n\nThe locals discovered it by accident in 1905, while searching for a buffalo killed by a tiger. They carried torches. The birds came to them. They've been coming ever since, every monsoon, between 6 and 9:30.\n\nWhat force locks a biological event to such a precise daily rhythm?"
+  },
+  "hashtags": [
+    "#IndiaFacts",
+    "#IndianMystery",
+    "#TrueStory",
+    "#KuchAurTha",
+    "#Assam",
+    "#Jatinga",
+    "#BirdSuicide",
+    "#Unsolved",
+    "#MysteryReels",
+    "#DidYouKnow",
+    "#Unexplained",
+    "#SaveThis",
+    "#ReadThis"
+  ],
+  "scenes": [
+    {
+      "scene_id": "01",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "6 PM to 9:30 PM.",
+        "line_2": "Birds fall from the sky."
+      }
+    },
+    {
+      "scene_id": "02",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "Jatinga, Assam. Every September to November.",
+        "line_2": "Same window. Same deaths. 120 years documented."
+      }
+    },
+    {
+      "scene_id": "03",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "Ornithologists studied it. Salim Ali visited.",
+        "line_2": "The time window never changes. Neither do the birds."
+      }
+    },
+    {
+      "scene_id": "04",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "What locks death to a clock?",
+        "line_2": "Tell me your theory."
+      }
+    }
+  ]
+}

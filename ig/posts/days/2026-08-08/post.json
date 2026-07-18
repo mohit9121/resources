@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "post_type": "reel",
+    "date": "2026-08-08",
+    "slug": "kuldhara-village-vanished-1825"
+  },
+  "background_music": "haunting-india.mp3",
+  "style": "cinematic",
+  "caption": {
+    "text": "In 1825, Kuldhara had 800 residents. Then it had none.\n\nThe legend says the Paliwal Brahmins of Kuldhara and 83 neighbouring villages vanished overnight, cursing the land as they left. The evil minister Salim Singh had demanded the village head's daughter. The villagers chose exile over submission.\n\nBut the documents tell a more complicated story. James Tod, British political agent, recorded 800 people in 1815. By 1890, only 37 remained. The 'overnight' departure is one version. The other is gradual collapse — wells drying up, taxes rising, water failing.\n\nThen comes the twist. A 2017 study in Current Science by A.B. Roy et al. examined the ruins. Collapsed roofs. Fallen joists. Lintels and pillars shattered in patterns that 'cannot be attributed to normal weathering and erosion.' The authors found evidence of recent tectonic activity, ground movements along major faults.\n\nAn earthquake may have destroyed Kuldhara. But no earthquake is recorded in Jaisalmer's 1825 chronicles. The British, meticulous record-keepers, noted nothing. The geological evidence exists. The historical record doesn't.\n\nSo what emptied 84 villages? A tyrant's lust? Drought? An earthquake that nobody wrote down? Or something that combined all three, leaving only a curse and 410 ruined houses?\n\nThe Archaeological Survey of India protects the site now. Nobody lives there still."
+  },
+  "hashtags": [
+    "#IndiaFacts",
+    "#IndianMystery",
+    "#TrueStory",
+    "#KuchAurTha",
+    "#Rajasthan",
+    "#Kuldhara",
+    "#GhostVillage",
+    "#Unsolved",
+    "#MysteryReels",
+    "#DidYouKnow",
+    "#Unexplained",
+    "#SaveThis",
+    "#ReadThis"
+  ],
+  "scenes": [
+    {
+      "scene_id": "01",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "800 people in 1815.",
+        "line_2": "Zero by morning, says the legend."
+      }
+    },
+    {
+      "scene_id": "02",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "Kuldhara, Rajasthan. 84 villages, one night.",
+        "line_2": "The Paliwals left a curse and vanished."
+      }
+    },
+    {
+      "scene_id": "03",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "2017 study: earthquake damage in the ruins.",
+        "line_2": "But no earthquake is recorded in 1825."
+      }
+    },
+    {
+      "scene_id": "04",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "Geology says disaster. History says nothing.",
+        "line_2": "Which record do you trust?"
+      }
+    }
+  ]
+}

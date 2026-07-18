@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "post_type": "reel",
+    "date": "2026-08-09",
+    "slug": "machapuchare-nepal-sacred-never-climbed"
+  },
+  "background_music": "epic-ambient.mp3",
+  "style": "cinematic",
+  "caption": {
+    "text": "6,993 meters. One of the most photographed mountains in Nepal. And officially, no one has ever stood on its summit.\n\nMachapuchare — the Fishtail Peak — rises in a perfect pyramid above Pokhara. Its twin summits are said to be the home of Lord Shiva. The Gurung people hold the entire Annapurna Sanctuary sacred. To climb Machapuchare is to disturb the divine. The government of Nepal has never issued a permit for its summit.\n\nThe only confirmed attempt was in 1957. A British team led by Jimmy Roberts climbed to within 150 feet of the summit via the north ridge. King Mahendra had given them permission — on one condition: they would not set foot on the summit itself. They complied. The record they published remains the only official climbing account of the mountain.\n\nThere are rumors that New Zealand climber Bill Denz illegally summited Machapuchare in the early 1980s. But he died in an avalanche elsewhere in the Himalayas in 1983, and took the truth with him. No permit has been issued since the 1950s. The summit remains untouched.\n\nUnlike Everest, where queues form at the top, Machapuchare stands alone — unclimbed, unclaimed, and perhaps unclimbable by design. Not because the mountain is too hard. Because some peaks are meant to stay above us.\n\nShould every mountain be climbed?"
+  },
+  "hashtags": [
+    "#IndiaFacts",
+    "#IndianMystery",
+    "#TrueStory",
+    "#KuchAurTha",
+    "#Machapuchare",
+    "#Nepal",
+    "#SacredMountain",
+    "#Shiva",
+    "#MysteryReels",
+    "#DidYouKnow",
+    "#Unexplained",
+    "#SaveThis",
+    "#ReadThis"
+  ],
+  "scenes": [
+    {
+      "scene_id": "01",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "6,993 meters.",
+        "line_2": "No one has ever stood on top."
+      }
+    },
+    {
+      "scene_id": "02",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "The Gurung say Shiva lives here.",
+        "line_2": "Nepal has never issued a summit permit."
+      }
+    },
+    {
+      "scene_id": "03",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "A British team stopped 150 feet short.",
+        "line_2": "Out of respect. In 1957."
+      }
+    },
+    {
+      "scene_id": "04",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "Some peaks are meant to stay above us.",
+        "line_2": "Should every mountain be climbed?"
+      }
+    }
+  ]
+}

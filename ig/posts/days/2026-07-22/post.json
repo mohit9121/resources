@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "post_type": "reel",
+    "date": "2026-07-22",
+    "slug": "bombay-time-clock-battle"
+  },
+  "background_music": "tension-build.mp3",
+  "style": "documentary",
+  "caption": {
+    "text": "Before 1950, Bombay lived in a different time zone than the rest of India. Literally.\n\nWhen Indian Standard Time was adopted on 1 January 1906, based on the 82.5°E meridian through Allahabad, Bombay said no. The city kept 'Bombay Time' — 38 minutes and 50 seconds behind IST. For 44 years.\n\nThe Rajabai Clock Tower, the University of Bombay, the High Court, the Municipal Corporation — all ran on Bombay Time. The railways and government offices used IST. A single city had two times. Dinner invitations read '8.21 BT' when hosts meant 9 PM IST. Newspapers listed engagements with 'BT' or 'ST' initials so guests knew which time the host followed.\n\nIn 1905, when Curzon imposed IST, Bombay made it political. Opposing IST became a Swadeshi statement. Factory workers at Jacob Sassoon Mill wrecked the timekeepers' office rather than start work 30 minutes earlier. Public clock towers were stoned. Nationalists sponsored clocks defiantly set to BT.\n\nSardar Patel had to personally intervene. Calcutta switched in September 1947. Bombay held out until 14 March 1950. The Times of India reported: 'Clocks in all Municipal offices were advanced by 39 and a half minutes... the 44-year-old battle of the clocks came to an end.'\n\nA city that refused to share time with its own country. For 44 years. That's not a ghost story. That's documented defiance."
+  },
+  "hashtags": [
+    "#IndiaFacts",
+    "#IndianMystery",
+    "#TrueStory",
+    "#KuchAurTha",
+    "#Bombay",
+    "#Mumbai",
+    "#History",
+    "#TimeZone",
+    "#MysteryReels",
+    "#DidYouKnow",
+    "#Unexplained",
+    "#SaveThis",
+    "#ReadThis"
+  ],
+  "scenes": [
+    {
+      "scene_id": "01",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "38 minutes behind India.",
+        "line_2": "For 44 years."
+      }
+    },
+    {
+      "scene_id": "02",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "Bombay refused Standard Time until 1950.",
+        "line_2": "Clocks, courts, universities — all rebelled."
+      }
+    },
+    {
+      "scene_id": "03",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "Workers wrecked offices. Towers were stoned.",
+        "line_2": "A city made time itself political."
+      }
+    },
+    {
+      "scene_id": "04",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "Sardar Patel had to force the change.",
+        "line_2": "What would you have set your watch to?"
+      }
+    }
+  ]
+}

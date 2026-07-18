@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "post_type": "reel",
+    "date": "2026-08-03",
+    "slug": "rohtang-an12-102-missing"
+  },
+  "background_music": "tension-build.mp3",
+  "style": "cinematic",
+  "caption": {
+    "text": "102 passengers. One aircraft. Zero survivors found for 35 years.\n\nOn February 7, 1968, an Indian Air Force AN-12 transport plane took off from Chandigarh for Leh. It encountered severe weather near Rohtang Pass and vanished. The wreckage wasn't found until 2003, when mountaineers from the Atal Bihari Vajpayee Institute of Mountaineering stumbled upon it at 18,000 feet on the Dhaka Glacier.\n\nWhat followed is India's longest-running search and recovery operation. The Dogra Scouts led expeditions in 2005, 2006, 2013, 2019, and 2024. By 2019, only 5 bodies had been recovered. In September 2024, four more were found — including Sepoy Narayan Singh, identified by his paybook, and Craftsman Thomas Charan from Kerala, identified through official records.\n\nThat brings the total to 9 bodies recovered. 93 remain lost in the ice.\n\nThe Chandra-Bhaga range is unforgiving — peaks over 6,000 meters, 80-degree gradients, glaciers that swallow everything. The IAF declared the aircraft missing after radio contact failed. For decades, families waited with no closure.\n\nThe 2024 expedition used DNA matching and official documents to identify the remains. But the mountain holds its secrets tight. 56 years later, the vast majority of the 102 are still out there, frozen in time.\n\nHow long should a search continue when the mountain never gives up its dead?"
+  },
+  "hashtags": [
+    "#RohtangPass",
+    "#IAF",
+    "#AN12Crash",
+    "#IndiaFacts",
+    "#TrueStory",
+    "#KuchAurTha",
+    "#IndianMystery",
+    "#Himalayas",
+    "#1968",
+    "#Unexplained",
+    "#MysteryReels",
+    "#DidYouKnow",
+    "#SaveThis",
+    "#ReadThis"
+  ],
+  "scenes": [
+    {
+      "scene_id": "01",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "102 passengers.",
+        "line_2": "Zero found for 35 years."
+      }
+    },
+    {
+      "scene_id": "02",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "February 7, 1968. AN-12 vanished",
+        "line_2": "near Rohtang at 18,000 feet."
+      }
+    },
+    {
+      "scene_id": "03",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "2024: 9 bodies found. 93 still",
+        "line_2": "lost in ice. 56 years, no closure."
+      }
+    },
+    {
+      "scene_id": "04",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "When the mountain never gives",
+        "line_2": "up its dead, how long do you search?"
+      }
+    }
+  ]
+}

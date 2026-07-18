@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "post_type": "reel",
+    "date": "2026-07-26",
+    "slug": "bhangarh-abandoned-city"
+  },
+  "background_music": "suspense-dark.mp3",
+  "style": "cinematic",
+  "caption": {
+    "text": "A city of 10,000. Then — nothing.\n\nBhangarh Fort, built in 1573 by Raja Bhagwant Das in the Alwar district of Rajasthan, was a fully functioning medieval city. Temples, bazaars, havelis, a palace complex. By the late 17th century, it was empty. The Archaeological Survey of India now maintains the site and prohibits entry after sunset — the only ASI-protected monument in India with this restriction.\n\nThe documented fact: Bhangarh was not destroyed. It was abandoned. The buildings remain intact enough to walk through. The curse stories — involving a tantric named Singhia or a sadhu named Guru Balu Nath — appear in colonial-era British records but grew far more elaborate after the internet era. The real history is quieter: Mughal political disruption, recurring famine, and economic collapse.\n\nBut here is the gap. The city was not sacked. There are no battle scars, no fire layers in the archaeology. People simply left — and never returned. Why did an entire urban centre dissolve without resistance?\n\nScience — or something else?"
+  },
+  "hashtags": [
+    "#IndiaFacts",
+    "#IndianMystery",
+    "#TrueStory",
+    "#KuchAurTha",
+    "#Rajasthan",
+    "#Alwar",
+    "#Unsolved",
+    "#MysteryReels",
+    "#DidYouKnow",
+    "#Unexplained",
+    "#SaveThis",
+    "#ReadThis"
+  ],
+  "scenes": [
+    {
+      "scene_id": "01",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "10,000 people lived here.",
+        "line_2": "Then the city emptied."
+      }
+    },
+    {
+      "scene_id": "02",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "Built in 1573. Abandoned",
+        "line_2": "by the late 1600s. No battle scars."
+      }
+    },
+    {
+      "scene_id": "03",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "ASI bans entry after sunset.",
+        "line_2": "The only protected site in India."
+      }
+    },
+    {
+      "scene_id": "04",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "What makes a city of 10,000",
+        "line_2": "leave without a fight?"
+      }
+    }
+  ]
+}

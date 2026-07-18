@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "post_type": "reel",
+    "date": "2026-08-12",
+    "slug": "lepakshi-hanging-pillar-gap"
+  },
+  "background_music": "epic-ambient.mp3",
+  "style": "documentary",
+  "caption": {
+    "text": "In the Veerabhadra Temple at Lepakshi, built between 1530-1542 CE, one of 70 pillars doesn't touch the ground.\n\nThe gap is 1 to 3 millimetres. Thin enough for cloth and paper to slide through. Confirmed by Archaeological Survey of India studies. Laser measurements. 3D scanning. The gap is real, uneven, and inexplicable by conventional engineering.\n\nThe surrounding pillars carry the roof load. The hanging pillar is decorative, not structural — but positioned to appear essential. During British surveys in the 1800s, an engineer reportedly tried to 'fix' the pillar, lowering it to touch the ground properly. Cracks appeared in the ceiling. They had to restore it to its hanging position.\n\nVijayanagara architects understood load distribution, material properties, thermal expansion — principles modern engineers use for earthquake-resistant design. But they did it without computers, without stress analysis, without modern instruments.\n\nThe gap is not uniform. One corner touches. The opposite corner hovers. The pillar has remained in this state for nearly 500 years.\n\nWas it deliberate? A signature of the architect? Or did something happen during construction that the builders turned into a feature? The temple's own legends disagree. The measurements don't."
+  },
+  "hashtags": [
+    "#IndiaFacts",
+    "#IndianMystery",
+    "#TrueStory",
+    "#KuchAurTha",
+    "#AndhraPradesh",
+    "#Lepakshi",
+    "#TempleEngineering",
+    "#Vijayanagara",
+    "#MysteryReels",
+    "#DidYouKnow",
+    "#Unexplained",
+    "#SaveThis",
+    "#ReadThis"
+  ],
+  "scenes": [
+    {
+      "scene_id": "01",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "1 to 3 millimetres.",
+        "line_2": "That's all that holds it off the ground."
+      }
+    },
+    {
+      "scene_id": "02",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "Lepakshi, 1530 CE. 70 pillars.",
+        "line_2": "One hangs in mid-air, confirmed by ASI."
+      }
+    },
+    {
+      "scene_id": "03",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "A British engineer tried to 'fix' it.",
+        "line_2": "The ceiling cracked. They put it back."
+      }
+    },
+    {
+      "scene_id": "04",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "500 years. No computer. No stress tests.",
+        "line_2": "How would you even begin to calculate this?"
+      }
+    }
+  ]
+}
