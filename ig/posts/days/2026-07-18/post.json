@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "post_type": "reel",
+    "date": "2026-07-18",
+    "slug": "kuldhara-abandoned-village"
+  },
+  "background_music": "suspense.mp3",
+  "style": "cinematic",
+  "caption": {
+    "text": "In 1825, an entire Rajasthan village vanished overnight.\n\nNo war. No plague. Just silence — and a curse that still keeps people away.\n\nKuldhara was real. The emptiness is still documented.\n\nWould you spend a night there?\n\nFollow @KuchAurTha for stories stranger than the explanation."
+  },
+  "hashtags": [
+    "#IndiaFacts",
+    "#IndianMystery",
+    "#TrueStory",
+    "#Rajasthan",
+    "#Kuldhara",
+    "#AbandonedPlaces",
+    "#MysteryReels",
+    "#Unexplained",
+    "#DidYouKnow",
+    "#KuchAurTha"
+  ],
+  "scenes": [
+    {
+      "scene_id": "01",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "1825. One night.",
+        "line_2": "An entire village vanished."
+      }
+    },
+    {
+      "scene_id": "02",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "Kuldhara, Rajasthan.",
+        "line_2": "Homes left standing. Empty."
+      }
+    },
+    {
+      "scene_id": "03",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "Locals still refuse",
+        "line_2": "to live there. Documented."
+      }
+    },
+    {
+      "scene_id": "04",
+      "duration_seconds": 5,
+      "text": {
+        "line_1": "What really happened?",
+        "line_2": "Follow for more."
+      }
+    }
+  ]
+}
